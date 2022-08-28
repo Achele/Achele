@@ -11,7 +11,7 @@ I'm a Software Engineer, an Entrepreneur, a creative and a mother. I am currentl
 - 🌱 I’m currently learning JavaScript, Reactjs, and nextjs.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer (Intern or Junior level).
-- 📫 You can [view my resume](#) and contact me by emailing mailtoejigboojoachele@gmail.com.
+- 📫 You can [view my resume](#) and contact me by emailing mailto:ejigboojoachele@gmail.com.
 
 ---
 
